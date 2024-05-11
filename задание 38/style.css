@@ -1,0 +1,40 @@
+
+
+.block0 {
+	width: 600px;
+	position: relative;
+	padding: 20px;
+	background: #FFCC7B;
+	padding-right: 200px;
+	border: solid 0px black;
+	float:  center;	
+	text-align:center;
+	left: 500px;
+	padding-left: 200px;
+}
+
+.block1 { 
+    width: 300px; 
+    position: relative;
+    background: #A58FA1;
+    padding: 5px;
+    left: 620px; 
+    border: solid 0px black; 
+    float: left;
+   }
+.block2 { 
+    
+    width: 400px;  
+    position: relative;
+    background: #DB9AAA;
+    padding: 5px; 
+    border: solid 0px black; 
+    float: right; 
+    right: 500px; 
+   }
+
+
+
+
+
+
